@@ -1,4 +1,4 @@
-# gymwala
+# FItPal
 
 A new Flutter project.
 
